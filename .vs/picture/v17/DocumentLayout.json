@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zaces\\source\\repos\\picture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFD26CA-FEC5-4A16-A31A-AF589C4AB124}|picture\\picture.pyproj|C:\\Users\\zaces\\source\\repos\\picture\\picture\\picture.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FDFD26CA-FEC5-4A16-A31A-AF589C4AB124}|picture\\picture.pyproj|solutionrelative:picture\\picture.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "picture.py",
+              "DocumentMoniker": "C:\\Users\\zaces\\source\\repos\\picture\\picture\\picture.py",
+              "RelativeDocumentMoniker": "picture\\picture.py",
+              "ToolTip": "C:\\Users\\zaces\\source\\repos\\picture\\picture\\picture.py",
+              "RelativeToolTip": "picture\\picture.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-28T19:42:16.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
